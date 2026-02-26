@@ -4,9 +4,7 @@
 This project builds a Machine Learning–based Resume Screening System that automatically evaluates, scores, and ranks resumes based on their relevance to a given job description.
 
 The system uses Natural Language Processing (NLP) techniques to extract skills, compare resumes with job requirements, and identify missing competencies — simulating how modern HR-tech platforms streamline hiring.
-
 ---
-
 ## 🔍 Project Overview
 
 Hiring teams often receive hundreds of resumes for a single role. Manually reviewing them is time-consuming and inconsistent.
